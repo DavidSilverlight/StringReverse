@@ -1,0 +1,7 @@
+/Users/DavidSilverlight/Projects/StringReverser/UITests/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/DavidSilverlight/Projects/StringReverser/UITests/bin/Debug/StringReverser.UITests.dll.mdb
+/Users/DavidSilverlight/Projects/StringReverser/UITests/bin/Debug/StringReverser.UITests.dll
+/Users/DavidSilverlight/Projects/StringReverser/UITests/obj/Debug/StringReverser.UITests.dll
+/Users/DavidSilverlight/Projects/StringReverser/UITests/obj/Debug/StringReverser.UITests.dll.mdb
+/Users/DavidSilverlight/Projects/StringReverser/UITests/bin/Debug/nunit.framework.dll
+/Users/DavidSilverlight/Projects/StringReverser/UITests/bin/Debug/Xamarin.UITest.dll

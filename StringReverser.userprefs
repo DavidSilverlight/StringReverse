@@ -1,0 +1,40 @@
+﻿<Properties StartupItem="iOS/StringReverser.iOS.csproj" GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.ItemProperties.StringReverser.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.AA7B22B7-25A2-4DDF-B106-ECADF42CD85F" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="StringReverser/Views/StringReversePage.xaml">
+    <Files>
+      <File FileName="StringReverser/Views/StringReversePage.xaml" Line="24" Column="35" />
+      <File FileName="StringReverser/Views/StringReversePage.xaml.cs" Line="14" Column="1" />
+      <File FileName="StringReverser/Extensions/StringExtensions.cs" Line="11" Column="9" />
+      <File FileName="StringReverser/Helpers/ExceptionHelper.cs" Line="12" Column="2" />
+      <File FileName="StringReverser/App.xaml.cs" Line="11" Column="1" />
+      <File FileName="StringReverser/obj/Debug/StringReverser.Views.StringReversePage.xaml.g.cs" Line="1" Column="1" />
+      <File FileName="StringReverser/ViewModel/StringReverseViewModel.cs" Line="7" Column="21" />
+      <File FileName="StringReverser/App.xaml" Line="22" Column="12" />
+      <File FileName="StringReverser/Views/StringReversePageQuick.xaml" Line="1" Column="1" />
+      <File FileName="StringReverser/Views/StringReversePageQuick.xaml.cs" Line="5" Column="19" />
+      <File FileName="StringReverser/obj/Debug/StringReverser.App.xaml.g.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StringReverser" expanded="True">
+            <Node name="StringReverser" expanded="True">
+              <Node name="Extensions" expanded="True" />
+              <Node name="Helpers" expanded="True" />
+              <Node name="ViewModel" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="StringReversePage.xaml" expanded="True" selected="True" />
+                <Node name="StringReversePageQuick.xaml" expanded="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.StringReverser.Droid PreferredExecutionTarget="Android.Nexus 4 (Jelly Bean -16)" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

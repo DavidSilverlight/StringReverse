@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="StringReverser.App">
+	<Application.Resources>
+		<ResourceDictionary>
+
+			<Color x:Key="BaseTextColor" >#37474f</Color>
+			<x:Double x:Key="BaseFontSize">23</x:Double>
+
+			<Style x:Key="BaseLabelStyle" TargetType="Label"    >
+				<Setter Property="FontSize" Value="{StaticResource BaseFontSize}" />
+				<Setter Property="TextColor" Value="{StaticResource BaseTextColor}" />
+			</Style>
+
+			<Style x:Key="BaseEntryStyle" TargetType="Entry">
+				<Setter Property="FontSize" Value="{StaticResource BaseFontSize}" />
+				<Setter Property="TextColor" Value="Black" />
+				<Setter Property="BackgroundColor" Value="Transparent"/>
+			</Style>
+
+			<Style x:Key="FormEntryStyle" TargetType="Entry"  BasedOn="{StaticResource BaseEntryStyle}">
+				<Setter Property="BackgroundColor" Value="White"/>
+			</Style>
+
+			<Style x:Key="HeaderStyle" TargetType="Label"  BasedOn="{StaticResource BaseLabelStyle}"  >
+				<Setter Property="FontSize" Value="{StaticResource BaseFontSize}" />
+				<Setter Property="TextColor" Value="Blue" />
+			</Style>
+			
+		</ResourceDictionary>
+	</Application.Resources>
+</Application>

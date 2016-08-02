@@ -1,0 +1,12 @@
+/Users/DavidSilverlight/Projects/StringReverser/StringReverser/obj/Release/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/DavidSilverlight/Projects/StringReverser/StringReverser/obj/Release/StringReverser.App.xaml.g.cs
+/Users/DavidSilverlight/Projects/StringReverser/StringReverser/obj/Release/StringReverser.Views.StringReversePage.xaml.g.cs
+/Users/DavidSilverlight/Projects/StringReverser/StringReverser/obj/Release/StringReverser.Views.StringReversePageQuick.xaml.g.cs
+/Users/DavidSilverlight/Projects/StringReverser/StringReverser/obj/Release/StringReverser.App.xaml
+/Users/DavidSilverlight/Projects/StringReverser/StringReverser/obj/Release/StringReverser.Views.StringReversePage.xaml
+/Users/DavidSilverlight/Projects/StringReverser/StringReverser/obj/Release/StringReverser.Views.StringReversePageQuick.xaml
+/Users/DavidSilverlight/Projects/StringReverser/StringReverser/bin/Release/StringReverser.dll
+/Users/DavidSilverlight/Projects/StringReverser/StringReverser/obj/Release/StringReverser.dll
+/Users/DavidSilverlight/Projects/StringReverser/StringReverser/bin/Release/Xamarin.Forms.Core.dll
+/Users/DavidSilverlight/Projects/StringReverser/StringReverser/bin/Release/Xamarin.Forms.Xaml.dll
+/Users/DavidSilverlight/Projects/StringReverser/StringReverser/bin/Release/Xamarin.Forms.Platform.dll

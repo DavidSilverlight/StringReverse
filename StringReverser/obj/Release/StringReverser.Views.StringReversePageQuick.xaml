@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="StringReverser.StringReversePageQuick">
+	<ContentPage.Content>
+		<StackLayout
+			Orientation="Vertical"
+			HorizontalOptions="Center"
+			VerticalOptions="Center"
+			WidthRequest="300">
+
+			<Label
+				Text="The Text Reverser"
+				Style="{StaticResource HeaderStyle}"
+				HorizontalOptions="Start" />
+			
+			<Entry	Placeholder="Start typing...."
+				Style="{StaticResource FormEntryStyle}"
+				Text=""
+				TextChanged="TextForwardString_TextChanged" />
+
+			<Label
+				x:Name="labelTextReverse"
+				Text="{Binding ReversedText}" />
+
+		</StackLayout>
+
+	</ContentPage.Content>
+</ContentPage>
